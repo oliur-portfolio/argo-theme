@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'helveticaneue-webfont';
+    src: url('helveticaneue-webfont.ttf') format('truetype'),
+        url('helveticaneue-webfont.woff') format('woff'),
+        url('helveticaneue-webfont.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'helveticaneue_thin-webfont';
+    src: url('helveticaneue_thin-webfont.ttf') format('truetype'),
+        url('helveticaneue_thin-webfont.woff') format('woff'),
+        url('helveticaneue_thin-webfont.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'helveticaneuemed-webfont';
+    src: url('helveticaneuemed-webfont.ttf') format('truetype'),
+        url('helveticaneuemed-webfont.woff') format('woff'),
+        url('helveticaneuemed-webfont.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'helveticaneuebd-webfont';
+    src: url('helveticaneuebd-webfont.ttf') format('truetype'),
+        url('helveticaneuebd-webfont.woff') format('woff'),
+        url('helveticaneuebd-webfont.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'helveticaneuehv-webfont';
+    src: url('helveticaneuehv-webfont.ttf') format('truetype'),
+        url('helveticaneuehv-webfont.woff') format('woff'),
+        url('helveticaneuehv-webfont.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'helveticaneue_blackcond-webfont';
+    src: url('helveticaneue_blackcond-webfont.ttf') format('truetype'),
+        url('helveticaneue_blackcond-webfont.woff') format('woff'),
+        url('helveticaneue_blackcond-webfont.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'helveticaneueit-webfont';
+    src: url('helveticaneueit-webfont.ttf') format('truetype'),
+        url('helveticaneueit-webfont.woff') format('woff'),
+        url('helveticaneueit-webfont.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'helveticaneuelt-webfont';
+    src: url('helveticaneuelt-webfont.ttf') format('truetype'),
+        url('helveticaneuelt-webfont.woff') format('woff'),
+        url('helveticaneuelt-webfont.woff2') format('woff2');
+}
